@@ -158,9 +158,19 @@ console and import it. The scripts' docstrings show the full commands.
 - **Cables can hit the portable stand's mast.** At full forward tilt, a rigid 45 mm plug touches
   it. Use right-angle cables, or keep tilt at −10° or less at the lowest heights.
 
-## Licensing
+## License
 
-The repo has no licence file. `stand/` is a remix of Mason Warner's *iPad Studio Stand V2*
-(MakerWorld 942779), licensed BY-NC, so it must stay non-commercial. The datasheets are the
-manufacturers' documents, and the sources of `images/inspiration_pic_*` aren't recorded, so check
-the rights to both before publishing this repo.
+Copyright © 2026 Rohith Murugan. Licensed under [CC BY-NC-SA 4.0](LICENSE). You can build, share
+and remix this project if you give credit, don't use it commercially, and share any remixes under
+the same license.
+
+Some files have different terms:
+
+- **`stand/`** is a remix of Mason Warner's *iPad Studio Stand V2* (MakerWorld 942779), licensed
+  CC BY-NC. Credit Mason Warner as well when you share it.
+- **`datasheets/` and `images/controller_board*`** are the manufacturers' material and aren't covered
+  by this license.
+- **`images/inspiration_pic_*`** are reference photos from unrecorded sources and aren't covered by
+  this license.
+
+Check the rights to the manufacturer material and reference photos before publishing this repo.
