@@ -1,0 +1,15 @@
+front_frame  overlap  0.000 mm3, gap   9.84 mm
+rear_panel   overlap  0.003 mm3, gap   0.00 mm
+io_block     overlap  0.000 mm3, gap   7.90 mm
+spine        overlap  0.000 mm3, gap   2.50 mm
+cable box (45 mm below the ports): gap to stand  30.2 mm, lowest  36.3 mm above desk
+io_block outlet plume rises  37.3 mm before it meets the stand
+bezel bottom  62.3 mm, top 294.5 mm above desk, screen leans back 12.6 deg (the iPad angle)
+M4x8 sticks 4.4 mm past the plate: 1.9 of the spine's 2.5 mm thread, 0.6 short of bottoming
+filament 2 walls 12 % (original's settings):  135 g
+filament 3 walls 15 %:  186 g
+tip forward : 17.3 deg of desk tilt, or 1.9 N at the screen top
+tip back    : 19.6 deg of desk tilt, or 2.2 N at the screen top
+tip sideways: 18.4 deg of desk tilt, or 2.1 N at the screen top
+print on its side (as the original): 236 x 237 x 112 mm, fits, watertight True
+ALL CHECKS PASS

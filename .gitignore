@@ -1,0 +1,7 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# FreeCAD automatic backups
+*.FCBak

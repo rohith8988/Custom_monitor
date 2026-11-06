@@ -1,0 +1,16 @@
+== display case v3 checks ==
+added material 8.6 cm3; rear panel 209.4 -> 218.0 cm3
+new ribs/bosses to LCD: 2.00 mm (AUO: nothing may press the reflector; v2 kept 2.0)
+seam bridge to LCD: 2.00 mm
+overlap rear panel v3 + seam bridge vs LCD         : 0.000 mm3
+overlap rear panel v3 + seam bridge vs driver board: 0.000 mm3
+overlap rear panel v3 + seam bridge vs io_block    : 0.000 mm3
+overlap rear panel v3 + seam bridge vs front frame : 0.000 mm3
+seam bridge vs rear panel: 0.000 mm3 overlap, gap 0.00 mm
+insert M4 x 4 x Ø5.6: pocket Ø5.4 x 4.3 from the LCD side, skin shoulder 1.2 mm, then Ø4.5 to the outside
+VESA screw: at most 5.0 mm past the arm plate (insert bottom is at 5.5 mm). M4 x 8 with the stands' plates = 4.4 mm -> 2.9 mm of thread in the insert
+rear_panel_L                102.5 ->  106.8 cm3, 181.0 x 232.7 x 6.70 (bed 256), z min -0.00
+rear_panel_R                106.9 ->  111.2 cm3, 181.0 x 232.7 x 6.70 (bed 256), z min -0.00
+rear_panel_L_selfsupport    102.5 ->  106.8 cm3, 181.0 x 232.7 x 6.70 (bed 256), z min -0.00
+rear_panel_R_selfsupport    106.9 ->  111.2 cm3, 181.0 x 232.7 x 6.70 (bed 256), z min -0.00
+print beds: bed1/2/5 copied from v2, bed3/4 rebuilt at v2's positions, bed6 = seam bridge (tiny - add it to any other bed in the slicer)
